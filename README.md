@@ -1,6 +1,9 @@
 # rails-react-form-builder
 
+[![Build Status](https://travis-ci.org/sgbmn/rails-react-form-builder.svg?branch=master)](https://travis-ci.org/sgbmn/rails-react-form-builder)
+
 Generates resource-orientated form elements with Rails style naming.
+*Early develeopment stage*
 
 ## Installation
 ### NPM
